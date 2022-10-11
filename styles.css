@@ -1,0 +1,39 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  height: 2px;
+  width: 3%;
+  border-color: lightgrey;
+  border-width: 5px;
+}
+img{
+  height: 150px;
+  width: 150px;
+}
+h1{
+  color: grey;
+}
+h3{
+  color: grey;
+}
+h4{
+  color: grey;
+}
+p{
+  color: #66BFBF;
+}
+li{
+  color: #66BFBF;
+}
+td{
+  color: #66BFBF;
+}
+th{
+  color: grey;
+}
+form{
+  color: #66BFBF;
+}
